@@ -1,0 +1,8 @@
+{
+  "name": "invalid-ttf-node10",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "~1.0.3",
+    "grunt-webfonts": "~1.0.6"
+  }
+}
